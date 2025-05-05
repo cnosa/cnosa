@@ -6,8 +6,11 @@ I'm a mathematician with a strong academic foundation and hands-on experience in
 
 ---
 
-![Website](https://cnosa.github.io/) 
-![Linkedin](https://www.linkedin.com/in/carlos-enrique-nosa-guzman-069258300/)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fcnosa.github.io%2F&up_color=blue&label=Website
+)
+
+![Linkedin](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcarlos-enrique-nosa-guzman-069258300%2F&up_color=blue&down_color=blue&label=LinkedIn
+)
 
 
 ## 🔧 Skills
