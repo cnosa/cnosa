@@ -6,6 +6,10 @@ I'm a mathematician with a strong academic foundation and hands-on experience in
 
 ---
 
+![Website](https://cnosa.github.io/) 
+![Linkedin](https://www.linkedin.com/in/carlos-enrique-nosa-guzman-069258300/)
+
+
 ## 🔧 Skills
 
 **Programming Languages:**  
@@ -56,13 +60,3 @@ Time management, effective communication, teamwork, adaptability, problem-solvin
 
 ### [Metropolis-Hastings](https://github.com/cnosa/Metropolis-Hastings)
 Notebooks related to my thesis work, focusing on Markov Chain Monte Carlo methods and their applications.
-
-### [EigenFaces](https://github.com/cnosa/EigenFaces)
-Application of eigenvalue algorithms in facial recognition using the Eigenfaces method.
-
-### [SucesionesdeFarey](https://github.com/cnosa/SucesionesdeFarey)
-Exploration of Farey sequences using Mathematica.
-
----
-
-Feel free to explore my repositories to learn more about my work. I'm always open to collaboration and new opportunities!
