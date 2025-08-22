@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Carlos Nosa
 
-**Mathematician | Data Scientist | Researcher**
+**Mathematician | Scientist | Researcher**
 
 I'm a mathematician with a strong academic foundation and hands-on experience in mathematical modeling, statistical analysis, and computational tools. I specialize in solving real-world problems using rigorous analytical methods, developed through research and teaching in undergraduate mathematics. I enjoy working in multidisciplinary teams and contributing with structured thinking and problem-solving skills. Currently, I am actively seeking new professional opportunities where I can apply and expand my expertise.
 
