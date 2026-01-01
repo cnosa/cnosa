@@ -8,13 +8,12 @@ I'm a mathematician with a strong academic foundation and hands-on experience in
 
 [Website](https://cnosa.github.io/)
 
-[Linkedin](https://www.linkedin.com/in/carlos-enrique-nosa-guzman-069258300/)
 
 
 ## 🔧 Skills
 
 **Programming Languages:**  
-Python, Julia, R, SQL, MATLAB
+Python, Julia, MATLAB
 
 **Data Analysis & Visualization:**  
 Power BI, pandas, matplotlib, seaborn
@@ -26,7 +25,7 @@ MATLAB, NumPy, SciPy
 scikit-learn, TensorFlow, Keras, graph-based models
 
 **Cloud & Development Tools:**  
-AWS, Git, GitHub, Visual Studio Code, Jupyter Notebooks
+Git, GitHub, Visual Studio Code, Jupyter Notebooks
 
 **Document Preparation:**  
 LaTeX (advanced), Overleaf
