@@ -13,7 +13,7 @@ I'm a mathematician with a strong academic foundation and hands-on experience in
 ## 🔧 Skills
 
 **Programming Languages:**  
-Python, Julia, MATLAB
+Python, Julia, MATLAB, C++
 
 **Data Analysis & Visualization:**  
 Power BI, pandas, matplotlib, seaborn
